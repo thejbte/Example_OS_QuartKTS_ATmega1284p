@@ -12,6 +12,6 @@ Instrucciones para compilar en un IDE
 - ir a fw e importar source & headers
 - clean and build.
 
-
+Ref:
 - (WinAVR)
-- proteus 8.9 SP2
+- Proteus 8.9 SP2
