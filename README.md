@@ -1,5 +1,5 @@
 # OS at ATmega1284p
-Example with  System Operating (QuarkTS) iin AVR - ATmega1284p
+Example with  Operating System (QuarkTS) iin AVR - ATmega1284p
 
 
 Instrucciones en proteus:
@@ -12,6 +12,6 @@ Instrucciones para compilar en un IDE
 - ir a fw e importar source & headers
 - clean and build.
 
-
+Ref:
 - (WinAVR)
-- proteus 8.9 SP2
+- Proteus 8.9 SP2
