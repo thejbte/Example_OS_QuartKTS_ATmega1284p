@@ -1,4 +1,5 @@
 # OS at ATmega1284p
+meti algo
 Example with  Operating System (QuarkTS) iin AVR - ATmega1284p
 
 
