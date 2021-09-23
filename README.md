@@ -1,5 +1,5 @@
 # OS at ATmega1284p
-Example with  Operating System (QuarkTS) iin AVR - ATmega1284p
+Example with  Operating System (QuarkTS) in AVR - ATmega1284p
 
 
 Instrucciones en proteus:
